@@ -63,16 +63,3 @@ Skilled Full Stack Developer proficient in JavaScript, TypeScript, Next.js, Angu
   src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=yelasri07&theme=github_dark"
   style="display: inline; width: 320px;"
 />
-
-<br/>
-<br/>
-
-
-[email]: elasriyoussef604@gmail.com
-[github]: https://github.com/yelasri07
-[linkedin]: https://www.linkedin.com/in/youssef-elasri07/
-<br/>
-<br/>
-
-
-</p>
