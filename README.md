@@ -1,6 +1,6 @@
 # 🖥️ yelasri07
 
-**`Full-Stack Developer`**
+**`Java Full-Stack Developer | Building Scalable Microservices & Web Applications`**
 
 Java Full-Stack Developer with expertise in building scalable web applications using Spring Boot and Angular. Experienced in designing microservices-based architectures with Spring Cloud, integrating distributed systems with Apache Kafka, and implementing CI/CD pipelines using Jenkins, SonarQube, and Nexus Repository Manager. Passionate about clean architecture, maintainable code, and delivering reliable, high-performance software solutions.
 
@@ -22,6 +22,7 @@ Java Full-Stack Developer with expertise in building scalable web applications u
 ![Angular](https://img.shields.io/badge/-Angular-DD0031?style=for-the-badge&logo=angular&logoColor=fff)
 ![Next.js](https://img.shields.io/badge/-Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=fff)
 ![Bootstrap](https://img.shields.io/badge/-Bootstrap-7952B3?style=for-the-badge&logo=bootstrap&logoColor=fff)
+![Tailwind css](https://img.shields.io/badge/-Tailwind%20css-025AB5?style=for-the-badge&logo=Tailwindcss&logoColor=fff)
 
 ---
 
