@@ -2,7 +2,7 @@
 
 **`Full-Stack Developer`**
 
-Skilled Full Stack Developer proficient in JavaScript, TypeScript, Next.js, Angular, Node.js, Golang, Rust, Java, and Spring Boot. Experienced in building web applications, managing databases (SQLite, MySQL, PostgreSQL), and optimizing code. Able to work effectively in a team, deliver efficient solutions, and demonstrate strong adaptability and innovation.
+Java Full-Stack Developer with expertise in building scalable web applications using Spring Boot and Angular. Experienced in designing microservices-based architectures with Spring Cloud, integrating distributed systems with Apache Kafka, and implementing CI/CD pipelines using Jenkins, SonarQube, and Nexus Repository Manager. Passionate about clean architecture, maintainable code, and delivering reliable, high-performance software solutions.
 
 ---
 
