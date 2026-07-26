@@ -16,7 +16,7 @@ Java Full-Stack Developer with expertise in building scalable web applications u
 
 ---
 
-### 🚀 Backend & Frameworks
+### 🚀 Frameworks
 
 ![Spring Boot](https://img.shields.io/badge/-Spring%20Boot-6DB33F?style=for-the-badge&logo=springboot&logoColor=fff)
 ![Spring Cloud](https://img.shields.io/badge/-Spring%20Cloud-6DB33F?style=for-the-badge&logo=spring&logoColor=fff)
